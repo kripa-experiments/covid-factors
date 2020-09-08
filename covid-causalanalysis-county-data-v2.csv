@@ -1,4 +1,4 @@
-FIPS,State,County,Population 2019,Avg Daily Mortality 2019,Length of Life (quartile),Quality of Life (quartile),Health Behaviors (quartile),Clinical Care (quartile),Social & Economic Factors (quartile),Physical Environment (quartile),Mask Wearing Prevalence,COVID Avg. Daily Cases,COVID Avg. Daily Deaths
+FIPS,State,County,Population 2019,Avg Daily Mortality 2019,Length of Life (quartile),Quality of Life (quartile),Health Behaviors (quartile),Clinical Care (quartile),Social & Economic Factors (quartile),Physical Environment (quartile),Mask Wearing Prevalence,COVID Cases to Date,COVID Deaths to Date
 1001,Alabama,Autauga,55869.0,1.7,1.0,1.0,1.0,1.0,1.0,4.0,0.74,1498.0,24.0
 1003,Alabama,Baldwin,223234.0,6.3,1.0,1.0,1.0,1.0,1.0,1.0,0.76,4713.0,46.0
 1005,Alabama,Barbour,24686.0,0.7,2.0,4.0,4.0,3.0,4.0,2.0,0.69,777.0,7.0
